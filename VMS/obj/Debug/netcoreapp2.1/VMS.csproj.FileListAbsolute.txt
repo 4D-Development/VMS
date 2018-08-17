@@ -1,0 +1,14 @@
+C:\Users\while\Source\Repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.deps.json
+C:\Users\while\Source\Repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.runtimeconfig.json
+C:\Users\while\Source\Repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.runtimeconfig.dev.json
+C:\Users\while\Source\Repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.dll
+C:\Users\while\Source\Repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.pdb
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.csprojAssemblyReference.cache
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.csproj.CoreCompileInputs.cache
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.RazorAssemblyInfo.cache
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.RazorAssemblyInfo.cs
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.AssemblyInfoInputs.cache
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.AssemblyInfo.cs
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.RazorTargetAssemblyInfo.cache
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.dll
+C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.pdb
