@@ -12,3 +12,17 @@ C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.AssemblyInfo.cs
 C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.RazorTargetAssemblyInfo.cache
 C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.dll
 C:\Users\while\Source\Repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.pdb
+C:\Users\Andrew\source\repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.deps.json
+C:\Users\Andrew\source\repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.runtimeconfig.json
+C:\Users\Andrew\source\repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.runtimeconfig.dev.json
+C:\Users\Andrew\source\repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.dll
+C:\Users\Andrew\source\repos\VMS\VMS\bin\Debug\netcoreapp2.1\VMS.pdb
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.RazorAssemblyInfo.cache
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.RazorAssemblyInfo.cs
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.RazorTargetAssemblyInfo.cache
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.dll
+C:\Users\Andrew\source\repos\VMS\VMS\obj\Debug\netcoreapp2.1\VMS.pdb
