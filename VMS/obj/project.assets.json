@@ -13895,7 +13895,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\david_000\\.nuget\\packages\\": {},
+    "C:\\Users\\Andrew\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13904,17 +13904,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\david_000\\Source\\Repos\\VMS\\VMS\\VMS.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\VMS\\VMS\\VMS.csproj",
       "projectName": "VMS",
-      "projectPath": "C:\\Users\\david_000\\Source\\Repos\\VMS\\VMS\\VMS.csproj",
-      "packagesPath": "C:\\Users\\david_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david_000\\Source\\Repos\\VMS\\VMS\\obj\\",
+      "projectPath": "C:\\Users\\Andrew\\source\\repos\\VMS\\VMS\\VMS.csproj",
+      "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrew\\source\\repos\\VMS\\VMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\david_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
