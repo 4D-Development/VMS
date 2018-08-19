@@ -2,8 +2,13 @@
   "runtimeOptions": {
     "tfm": "netcoreapp2.1",
     "framework": {
+<<<<<<< HEAD
       "name": "Microsoft.AspNetCore.App",
       "version": "2.1.1"
+=======
+      "name": "Microsoft.AspNetCore.All",
+      "version": "2.1.2"
+>>>>>>> David's_Branch
     },
     "configProperties": {
       "System.GC.Server": true
